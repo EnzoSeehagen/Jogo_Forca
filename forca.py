@@ -72,4 +72,4 @@ else:
     print("   |  I I I I I I  |        ")
     print("   \_             _/       ")
     print("     \_         _/         ")
-    print("       \_______/           ")
+    print("       \_______/          ")
